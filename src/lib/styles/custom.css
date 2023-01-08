@@ -1,0 +1,14 @@
+main {
+	margin-bottom: 50px;
+}
+footer {
+	font-size: smaller;
+	padding-top: 10px;
+	position: fixed;
+	height: 50px;
+	background-color: gainsboro;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	margin-bottom: 0px;
+}

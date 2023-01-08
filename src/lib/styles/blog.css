@@ -1,0 +1,22 @@
+ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+.sidebar-content {
+	margin-top: 4em;
+	position: fixed;
+	padding: 10px;
+	width: 180px;
+	border: 1px silver solid;
+}
+
+.subdued {
+	color: grey;
+	font-size: small;
+}
+
+.list-post {
+	margin-top: 1em;
+	margin-bottom: 0.25em;
+}
